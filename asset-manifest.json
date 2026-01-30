@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Sowmiya1301.github.io/To-Do-List_locally/static/css/main.da2137a3.css",
-    "main.js": "/Sowmiya1301.github.io/To-Do-List_locally/static/js/main.c343c839.js",
-    "index.html": "/Sowmiya1301.github.io/To-Do-List_locally/index.html",
-    "main.da2137a3.css.map": "/Sowmiya1301.github.io/To-Do-List_locally/static/css/main.da2137a3.css.map",
-    "main.c343c839.js.map": "/Sowmiya1301.github.io/To-Do-List_locally/static/js/main.c343c839.js.map"
+    "main.css": "/To-Do-List_locally/static/css/main.da2137a3.css",
+    "main.js": "/To-Do-List_locally/static/js/main.c343c839.js",
+    "index.html": "/To-Do-List_locally/index.html",
+    "main.da2137a3.css.map": "/To-Do-List_locally/static/css/main.da2137a3.css.map",
+    "main.c343c839.js.map": "/To-Do-List_locally/static/js/main.c343c839.js.map"
   },
   "entrypoints": [
     "static/css/main.da2137a3.css",
